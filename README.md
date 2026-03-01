@@ -15,7 +15,7 @@ Bu proje, C dilinde yazılmış bir konsol tabanlı **Tic Tac Toe (X ve O)** oyu
    gcc tic_tac_toe.c -o tic_tac_toe
 
 Örnek çıktı:
-   Tahta Durumu:
+Tahta Durumu:
  X | O |  
 ---|---|---
    | X |  
